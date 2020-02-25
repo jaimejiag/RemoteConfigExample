@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RemoteConfigExample</string>
+    <string name="login">Accede a la app</string>
+    <string name="login_message">Accede a la app para ver todo el contenido y poder disfrutar de la funcionalidad al completo.</string>
+    <string name="login_title">Login</string>
+    <string name="login_button">Acceder</string>
+    <string name="exit_button">Salir</string>
+</resources>

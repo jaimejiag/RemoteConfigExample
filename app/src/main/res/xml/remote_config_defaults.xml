@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMaps>
+    <entry>
+        <key>login_message</key>
+        <value>Accede a la app para ver todo el contenido y poder disfrutar de la funcionalidad al completo.</value>
+    </entry>
+    <entry>
+        <key>login_background_color</key>
+        <value>#3d5afe</value>
+    </entry>
+</defaultsMaps>
